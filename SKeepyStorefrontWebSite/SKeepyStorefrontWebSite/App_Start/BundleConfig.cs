@@ -22,6 +22,7 @@ namespace SKeepyStorefrontWebSite
                         ));
 
             bundles.Add(new StyleBundle("~/Content/styles").Include(
+                "~/Content/gfonts.css",
                 "~/Content/font-awesome.min.css",
                 "~/Content/main.css",
                 "~/Content/custom.css"

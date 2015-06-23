@@ -141,6 +141,7 @@
     <Content Include="browserconfig.xml" />
     <Content Include="Content\custom.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\gfonts.css" />
     <Content Include="Content\images\arrow.svg" />
     <Content Include="Content\images\overlay.png" />
     <Content Include="Content\images\SkeepyLogo.svg" />
@@ -219,6 +220,14 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <Content Include="manifest.json" />
+    <Content Include="fonts\gfonts\12mE4jfMSBTmg-81EiS-Yfk_vArhqVIZ0nv9q090hN8.woff2" />
+    <Content Include="fonts\gfonts\12mE4jfMSBTmg-81EiS-YRsxEYwM7FgeyaSgU71cLG0.woff" />
+    <Content Include="fonts\gfonts\2tsd397wLxj96qwHyNIkxPesZW2xOQ-xsNqO47m55DA.woff2" />
+    <Content Include="fonts\gfonts\7m8l7TlFO-S3VkhHuR0at44P5ICox8Kq3LLUNMylGO4.woff2" />
+    <Content Include="fonts\gfonts\7m8l7TlFO-S3VkhHuR0at4bN6UDyHWBl620a-IRfuBk.woff" />
+    <Content Include="fonts\gfonts\Hgo13k-tfSpn0qi1SFdUfT8E0i7KZn-EPnyo3HZu7kw.woff" />
+    <Content Include="fonts\gfonts\Hgo13k-tfSpn0qi1SFdUfVtXRa8TVwTICgirnJhmVJw.woff2" />
+    <Content Include="fonts\gfonts\vzIUHo9z-oJ4WgkpPOtg1_esZW2xOQ-xsNqO47m55DA.woff" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
   </ItemGroup>
   <PropertyGroup>
