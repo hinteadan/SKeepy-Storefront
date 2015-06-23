@@ -23,7 +23,8 @@ namespace SKeepyStorefrontWebSite
 
             bundles.Add(new StyleBundle("~/Content/styles").Include(
                 "~/Content/font-awesome.min.css",
-                "~/Content/main.css"
+                "~/Content/main.css",
+                "~/Content/custom.css"
                 ));
         }
     }

@@ -138,9 +138,14 @@
     <Content Include="apple-icon-precomposed.png" />
     <Content Include="apple-icon.png" />
     <Content Include="browserconfig.xml" />
+    <Content Include="Content\custom.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\images\arrow.svg" />
     <Content Include="Content\images\overlay.png" />
+    <Content Include="Content\images\SkeepyLogo.svg" />
+    <Content Include="Content\images\SkeepyLogo_640_640.jpg" />
+    <Content Include="Content\images\SkeepyLogo_640_640.png" />
+    <Content Include="Content\images\SkeepyLogo_White_640_640.png" />
     <Content Include="Content\main.css" />
     <Content Include="favicon-16x16.png" />
     <Content Include="favicon-32x32.png" />

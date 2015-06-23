@@ -1,0 +1,16 @@
+﻿.logo {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url("images/SkeepyLogo_640_640.png");
+    background-size: contain;
+    width: 640px;
+    height: 640px;
+}
+
+    .logo.logo-white {
+        background-image: url("images/SkeepyLogo_White_640_640.png");
+    }
+
+.inline-block {
+    display: inline-block;
+}
