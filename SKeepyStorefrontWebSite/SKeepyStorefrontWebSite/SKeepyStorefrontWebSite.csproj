@@ -168,6 +168,7 @@
     <Content Include="images\pic06.jpg" />
     <Content Include="images\pic07.jpg" />
     <Content Include="images\pic08.jpg" />
+    <Content Include="images\SkeepyLogo_wBackground.jpg" />
     <Content Include="ms-icon-144x144.png" />
     <Content Include="ms-icon-150x150.png" />
     <Content Include="ms-icon-310x310.png" />
