@@ -7,6 +7,10 @@
     height: 640px;
 }
 
+    .logo.cover {
+        background-size: cover;
+    }
+
     .logo.logo-white {
         background-image: url("images/SkeepyLogo_White_640_640.png");
     }
