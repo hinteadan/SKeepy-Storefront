@@ -34,6 +34,9 @@
     text-align: justify;
 }
 
-.more-content {
-    margin-top: 2em;
+@media screen and (min-width: 600px) {
+    .more-content {
+        margin-top: 2em;
+        padding: 3.25em;
+    }
 }
